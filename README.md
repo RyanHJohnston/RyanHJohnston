@@ -15,7 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --!>
 I'm a 4th year CS student and trying to be a jack of all trades in IT. <br>
-
-| Attempt | #1    | #2    |
-| :---:   | :---: | :---: |
-| Seconds | 301   | 283   |
