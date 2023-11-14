@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --!>
-I'm a 4th year CS student and trying to be a jack of all trades in IT. 
-| Syntax | Description |
-| --- | ----------- |
-| Header | Title |
-| Paragraph | Text |
-
-
+I'm a 4th year CS student and trying to be a jack of all trades in IT. <br>
+| Tool Set
+| ----------- | ----------- |
+| OS      | Arch Linux       |
+| Terminal   | Kitty Terminal |
+| Shell | Bash & PowerShell |
+| Editor | Neovim |
